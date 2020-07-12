@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Creative Cognition`,
     name: `Creative Cognition`,
-    siteUrl: `https://novela.narative.co`,
+    siteUrl: `https://creative-cognition.co`,
     description: `Creative cognition; making creativity accessible to all one thought at a time`,
     hero: {
       heading: `Welcome to Creative Cognition!`,
