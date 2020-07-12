@@ -1,0 +1,8 @@
+- name: Emily Elia
+2  bio: |
+3    Emily Elia
+5  avatar: ./avatars/eeheadshot.jpg
+6  featured: true
+7  social:
+8    - name: github
+9      url: https://github.com

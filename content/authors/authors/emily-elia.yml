@@ -1,0 +1,11 @@
+
+name: Emily Elia
+bio: |
+  Founder, CEO, and Editor in Chief of Creative Cognition 
+avatar: ./avatars/eeheadshot.jpg
+social:
+  - url: https://twitter.com/eckelia
+  - url: https://www.instagram.com/cognition_creative/
+  - url: https://www.linkedin.com/in/emily-elia-a38737105/
+  - url: https://github.com/emilyelia
+featured: true
