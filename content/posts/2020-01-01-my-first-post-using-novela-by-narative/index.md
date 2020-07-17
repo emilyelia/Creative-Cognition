@@ -1,5 +1,5 @@
 ---
-title: Unlock your Creative Potenital by Conquering This One Cognative Bias
+title: Unlock your Creative Potenital by Conquering This One Cognitive Bias
 author: Emily Elia
 date: 2020-06-23
 hero: ./images/bb.jpeg
