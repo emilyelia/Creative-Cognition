@@ -5,8 +5,9 @@ module.exports = {
     siteUrl: `https://creative-cognition.io`,
     description: `Creative cognition; making creativity accessible to all one thought at a time`,
     hero: {
-      heading: `Welcome to Creative Cognition!`,
-      maxWidth: 652,
+      heading: `
+   Making creativity accessible to all, one thought at a time.`,
+      maxWidth: 3000,
     },
     social: [
       {
