@@ -11,6 +11,8 @@ excerpt: Deep dive into the most effective way to think creatively
 
 
 The blank page is the place where every problem can be solved, where the world of tomorrow can come into being, and where every creative endeavor can begin. This is a place where the singular beauty of art and science can either stand alone to enchant us or combine to transform our lives in ways that we never thought possible. The blank page itself is a muse. A quick Google, Pinterest, or Instagram search for a blank page will return admiring quotes from legions of creative, business, and scientific types about how there is no greater source of exhilaration, inspiration, or freedom than the blank page.
+
+
 The blank page, however, is inanimate. It does not possess God-like or even human-like capabilities. It does not have a mind that acts of its own accord. It is a synthesized medley of chemicals that humans can impose their will upon. If you tried to impose your will on a blank page so you could create your masterpiece or solve the most daunting problems with no constraints could you? If you were like most people the question would intimidate and overwhelm you. You would struggle to focus and pick a place to start — let alone think creatively. This demonstrates what King said, you must not come lightly to the blank page. In order to realize the power of the blank page, you must impose your will on it and that is not something that you can do lightly or without purpose. In order to turn that blank page into a creative solution, you need a purpose for that page and purpose comes from one thing — constraint.
 
 ### Constraints Lead to Innovation
