@@ -1,7 +1,7 @@
 ---
 title: Four Key Stages of Idea Generation for Creative Product Development
 author: Emily Elia
-date: 2020-07-18
+date: 2020-06-24
 hero: ./images/pen.jpg
 excerpt: Creativity alone does not generate ready-for-market creations, ideas, or innovations. There are four steps to make it ready-for-market.
 ---
