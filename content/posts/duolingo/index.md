@@ -7,7 +7,7 @@ excerpt: Why I’m Obsessed with Duolingo
 ---
 
 
-I remember telling a native Spanish speaker that even though I didn’t grow up in a house where it was spoken, I could say I speak Spanish because of four years of language classes and growing up in South Florida, where it is common. Then she started speaking to me in Spanish and I stopped dead in my tracks; I couldn’t understand what she is saying or respond with anything better than “Hola! Me llamo es Emily” or “Donde está el bano?” I realized that after four years of not speaking or even being around the Spanish language, I could not comprehend it like I once did. This led me to discover the app with which I’m obsessed: DuoLingo. I am absolutely obsessed with Duolingo — an app that teaches you how to learn a new language — because it is free, it uses data to personalize your learning experience, it encourages positive behavior change through gamification, and it gets you speaking the language through social and interactive features.
+I remember telling a native Spanish speaker that even though I didn’t grow up in a house where it was spoken, I could say I speak Spanish because of four years of language classes and growing up in South Florida, where it is common. Then she started speaking to me in Spanish and I stopped dead in my tracks; I couldn’t understand what she is saying or respond with anything better than “Hola! Me llamo es Emily” or “Donde está el bano?” I realized that after four years of not speaking or even being around the Spanish language, I could not comprehend it like I once did. This led me to discover the app with which I’m obsessed: Duolingo. I am absolutely obsessed with Duolingo — an app that teaches you how to learn a new language — because it is free, it uses data to personalize your learning experience, it encourages positive behavior change through gamification, and it gets you speaking the language through social and interactive features.
 
 
 ### Duolingo is Brilliant, Free and Disruptive
@@ -19,7 +19,7 @@ Duolingo solves these problems and finds perfect product market fit because its 
 
 This type of disruption is a driving principle behind great companies and great products in our information economy, where there is no monopoly on access to information and where no one corporation, person, government or other entity benefits from a monopoly on access to information. Duolingo has leveraged this principle into a successful, impactful product that is the most downloaded education app in the world.
 
-The versatility of free data-driven products is reflected in the depth and the breadth of DuoLingo’s users. Everyone from Bill Gates, to engineering students who literally dream about interviewing the world’s foremost paella experts in perfect Spanish so I can get their secret recipe (ME!), to public school students all over the world use DuoLingo because of its free, brilliant and disruptive dissemination of information.
+The versatility of free data-driven products is reflected in the depth and the breadth of Duolingo’s users. Everyone from Bill Gates, to engineering students who literally dream about interviewing the world’s foremost paella experts in perfect Spanish so I can get their secret recipe (ME!), to public school students all over the world use Duolingo because of its free, brilliant and disruptive dissemination of information.
 
 ### Data 
 
@@ -37,12 +37,12 @@ One of my favorite new data-driven features is tips. In Duolingo I am more profi
 </div>
 
 
-The collection and analysis of educational data are among the most important parts of Duolingo’s product. They allow Duolingo not just to be a vehicle for learning, but also a vehicle for learning *how* people learn. This enables DuoLingo to bring data to opinion fights and be a leader in ed-tech for years to come.
+The collection and analysis of educational data are among the most important parts of Duolingo’s product. They allow Duolingo not just to be a vehicle for learning, but also a vehicle for learning *how* people learn. This enables Duolingo to bring data to opinion fights and be a leader in ed-tech for years to come.
 
 
 ### Behavior Change (For the Better) through Gamification
 
-All great products change your behavior, so you spend more time using the product and thus benefit the company. What sets Duolingo apart is that the more that DuoLingo changes your behavior, the more both you *and* the company benefit.
+All great products change your behavior, so you spend more time using the product and thus benefit the company. What sets Duolingo apart is that the more that Duolingo changes your behavior, the more both you *and* the company benefit.
 
 The app breaks down language learning into small concrete goals that can be met in 20 minutes a day or less. Small goals modify our behavior because they don’t intimidate us; it’s easy to find five minutes to play with an app. In Duolingo, a student meets these goals by maintaining streaks — this relies on the availability heuristic, the idea that you don’t want to lose something that will make you happy especially if you are reminded enough about it. Gamification and visualizations of success are crucial to keeping these streaks alive. Each time you correctly provide five answers in a row, Duo — the app’s adorable green bird mascot — gives you a congratulatory message. The streak you have achieved thus is visualized, and after completing a lesson, you can unlock other lessons and earn stars.
 
@@ -55,7 +55,7 @@ The app breaks down language learning into small concrete goals that can be met 
 </div>
 
 
-Duolingo uses gamification to give students incentives to change their behavior. Badges, stars, treasure chests, coins and even the use of ads reward behavior that uses the app and keeps the user learning new languages. All of these gamification features are permanent: You can lose a streak, but not a badge, stars or coins in app rewards. All of these features combined fulfill DuoLingo’s mission: to be an optimal ecosystem for positive behavior change.
+Duolingo uses gamification to give students incentives to change their behavior. Badges, stars, treasure chests, coins and even the use of ads reward behavior that uses the app and keeps the user learning new languages. All of these gamification features are permanent: You can lose a streak, but not a badge, stars or coins in app rewards. All of these features combined fulfill Duolingo’s mission: to be an optimal ecosystem for positive behavior change.
 
 
 <div className="Image__Small">
@@ -68,10 +68,10 @@ Duolingo uses gamification to give students incentives to change their behavior.
 
 ### Social and Interactive Features
 
-Languages are interactive, and learning one requires features that are more interactive than scrolling, swiping, and tapping a screen. Duolingo masterfully integrates the social and interactive aspects of language into every aspect of its product. Every lesson includes a speak-and-listen component that can be repeated, sped up or slowed down. What’s more, DuoLingo has a collection of ways students can become fluent that are more social and interactive than looking at your phone. There are online clubs, tutors and leaderboards where you can practice having conversations with other users at similar comfort levels. Duolingo ingeniously provides podcasts by native speakers so students can pick up cadences, emotions and pronunciations they can’t internalize by tapping a screen. It even sponsors meetups all over the world — even in Gainesville, Florida where I am based — where users can practice their new language and gain all of the connections and opportunities that come with learning a language.
+Languages are interactive, and learning one requires features that are more interactive than scrolling, swiping, and tapping a screen. Duolingo masterfully integrates the social and interactive aspects of language into every aspect of its product. Every lesson includes a speak-and-listen component that can be repeated, sped up or slowed down. What’s more, Duolingo has a collection of ways students can become fluent that are more social and interactive than looking at your phone. There are online clubs, tutors and leaderboards where you can practice having conversations with other users at similar comfort levels. Duolingo ingeniously provides podcasts by native speakers so students can pick up cadences, emotions and pronunciations they can’t internalize by tapping a screen. It even sponsors meetups all over the world — even in Gainesville, Florida where I am based — where users can practice their new language and gain all of the connections and opportunities that come with learning a language.
 
 
-After going to my first meetup in Gainesville, I officially fell in love with Duolingo. Through all of my interactions with the app — meeting small goals through deliberate practice, changing my behavior so I would practice 2 lessons a day, listening to DuoLingo podcasts, and interacting with the social components of the app — I was able to hold actual conversations in Spanish. I could say so much more than “Hola! Me llamo es Emily.” or "Donde está el bano?”.
+After going to my first meetup in Gainesville, I officially fell in love with Duolingo. Through all of my interactions with the app — meeting small goals through deliberate practice, changing my behavior so I would practice 2 lessons a day, listening to Duolingo podcasts, and interacting with the social components of the app — I was able to hold actual conversations in Spanish. I could say so much more than “Hola! Me llamo es Emily.” or "Donde está el bano?”.
 
 
 <div className="Image__Small">
@@ -95,5 +95,5 @@ Augmented Reality also could help edify our understanding of our current environ
 #### Specialized Subject Areas:
 
 
-We all are more willing to do things when we are intrinsically motivated, and with the rise of the internet, more of our interests are based in the cultures of other countries. We listen to K-pop lyrics from Korea, admire Anime from Japan and read classics such as Don Quixote in its original Spanish. That’s why DuoLingo should offer specialized lessons in areas that let people learn about those aspects of other cultures that interest them. It can leverage the interests students bring to their studies to strengthen their connections to the language, the ideas and the culture.
+We all are more willing to do things when we are intrinsically motivated, and with the rise of the internet, more of our interests are based in the cultures of other countries. We listen to K-pop lyrics from Korea, admire Anime from Japan and read classics such as Don Quixote in its original Spanish. That’s why Duolingo should offer specialized lessons in areas that let people learn about those aspects of other cultures that interest them. It can leverage the interests students bring to their studies to strengthen their connections to the language, the ideas and the culture.
 
